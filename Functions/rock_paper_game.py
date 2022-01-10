@@ -1,6 +1,6 @@
 # Rock Paper and Scissor Game
 
-print("""" ~~~~~~~~~~ Game of Rock, Paper and Scissor ~~~~~~~~
+print("""" ~~~~~~~~~~~~ Game of Rock, Paper and Scissor ~~~~~~~~~~
 
 Instructions:-
 
